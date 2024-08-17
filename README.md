@@ -11,4 +11,5 @@ This application uses React with a custom hook to evaluate password strength. It
 ---
 
 This version highlights the key features of your app while maintaining clarity and conciseness.
+
 ![Alt text](<Screenshot 2024-08-17 at 5.28.09 PM.png>)
